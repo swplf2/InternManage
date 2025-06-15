@@ -1,0 +1,8 @@
+{
+  "short_name": "Translation Hub",
+  "name": "Translation Hub - Intern Management System",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
